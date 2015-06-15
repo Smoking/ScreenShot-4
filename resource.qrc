@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>camera.png</file>
+        <file>door_out.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
